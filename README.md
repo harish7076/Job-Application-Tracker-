@@ -17,7 +17,7 @@ This is a **Flask-based web application** that helps you manage and track your j
 ---
 
 ## 📁 Project Structure
-
+```
 job-tracker/
 │
 ├── templates/
@@ -31,6 +31,7 @@ job-tracker/
 ├── job_applications.xlsx # Automatically created after first entry
 ├── app.py # Main Flask application
 └── README.md # This file
+```
 
 ▶️ How to Run
 python app.py
