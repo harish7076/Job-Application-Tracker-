@@ -55,3 +55,6 @@ Excel file is updated every time an application is added or updated.
 
 <img width="1440" alt="Screenshot 2025-06-27 at 3 58 21 PM" src="https://github.com/user-attachments/assets/1e0bf533-6926-4bf0-8f12-d897d4e333f4" />
 
+<img width="1440" alt="Screenshot 2025-06-30 at 1 24 04 PM" src="https://github.com/user-attachments/assets/0481565e-1ae4-4165-8c4b-cc7657719ca6" />
+<img width="1440" alt="Screenshot 2025-06-30 at 1 24 13 PM" src="https://github.com/user-attachments/assets/45cfaa9b-c75d-414f-be37-34ad14a28a9c" />
+<img width="1440" alt="Screenshot 2025-06-30 at 1 24 36 PM" src="https://github.com/user-attachments/assets/6382d7b4-466b-48cf-bd1c-cc578dd36231" />
